@@ -1,5 +1,5 @@
 # GTA SA Reset Tool
-Simple AutoHotkey script to reset Grand Theft Auto San Andreas
+Simple application to reset Grand Theft Auto: San Andreas
 
 ## Install
 1. Download the latest release
