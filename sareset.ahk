@@ -11,7 +11,7 @@
 ; Variables
 STARTKEY=]
 EXITKEY=[
-PROCESS=gta-sa.exe
+PROCESS=gta_sa.exe
 
 ; Hotkeys
 Hotkey,%STARTKEY%,Reset
