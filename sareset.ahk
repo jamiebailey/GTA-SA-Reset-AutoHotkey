@@ -1,6 +1,6 @@
 ﻿#SingleInstance force
 
-; GTA San Andreas Auto Reset 1.0.0
+; GTA San Andreas Auto Reset Tool
 ;
 ; Install:
 ; 1. Place this file inside the GTA:SA root directory.
