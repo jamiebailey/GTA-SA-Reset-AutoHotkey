@@ -4,7 +4,8 @@ Simple application to reset Grand Theft Auto: San Andreas
 ## Install
 1. Download the latest release
 2. Place `sareset.exe` into the root of your Grand Theft Auto: San Andreas install directory, e.g: `C:\Programs Files (x86)\Grand Theft Auto San Andreas`
-3. Launch `sareset.exe` and enjoy :)
+3. Read **Default Controls** below
+4. Launch `sareset.exe` and enjoy :)
 
 ## Install (Manual)
 1. Install [AutoHotkey](https://www.autohotkey.com/)
